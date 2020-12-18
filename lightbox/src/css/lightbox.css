@@ -164,6 +164,7 @@ body.lb-disable-scrolling {
 }
 
 .lb-data .lb-caption {
+  font-family: Montserrat, sans-serif;
   font-size: 13px;
   font-weight: bold;
   line-height: 1em;
@@ -174,6 +175,7 @@ body.lb-disable-scrolling {
 }
 
 .lb-data .lb-number {
+  font-family: Montserrat, sans-serif;
   display: block;
   clear: left;
   padding-bottom: 1em;
